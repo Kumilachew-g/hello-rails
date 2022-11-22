@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Hello-Rails
 
 This project is created to learn how to create rails project with PostgreSQL database setup.
